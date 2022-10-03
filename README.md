@@ -1,6 +1,11 @@
 # Non-linear-Piecewise-Enhancement-
 Non-linear (Piecewise Enhancement) implemented in Matlab  app-designer
 
+# How to run this file 
+    just clone this repo
+    open in matlab 
+    and run.....
+
 
  Intensity level slicing is a particular kind of gray level mapping where specific gray level values of interest are mapped to a specified (typically high/bright) value
 • Used for feature extraction
